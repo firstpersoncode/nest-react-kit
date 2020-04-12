@@ -2,7 +2,7 @@
     "name": "nest-react-kit",
     "version": "0.0.1",
     "description": "NestJS + ReactJS",
-    "author": "Nasser Maronie <nasser.maronie@irvinsaltedegg.com>",
+    "author": "Nasser Maronie <nasser.maronie@gmail.com>",
     "license": "MIT",
     "scripts": {
         "prebuild": "rimraf dist",
