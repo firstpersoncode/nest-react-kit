@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    overflow: auto !important;
+}
+
+html,
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+ul {
+    /* list-style: none; */
+    margin: 0;
+    padding: 0;
+}
